@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #f8cdda, #a1c4fd);
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 80%;
+    margin: 40px auto;
+    background-color: white;
+    border-radius: 15px;
+    padding: 30px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+    text-align: center;
+}
+.song {
+    margin: 25px 0;
+}
+audio {
+    width: 70%;
+    margin-top: 10px;
+}
+button {
+    background-color: #4B0082;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #6A0DAD;
+}
