@@ -1,6 +1,23 @@
 # 🎵 Music Recommendation System
 
-A simple **Flask-based Music Recommendation System** that recommends songs and plays them from the static/songs folder.
+A simple **Flask-based web application** that recommends songs and allows you to play them directly from your browser.  
+This project demonstrates basic **machine learning concepts** (recommendation logic), **Flask backend**, and **HTML/CSS frontend** integration.  
+
+---
+
+## 🚀 Features
+- 🎧 Recommend songs from a dataset (`songs.csv`)  
+- 🖥️ Clean, responsive HTML/CSS UI  
+- ▶️ Play songs directly from the browser (from `static/songs/` folder)  
+- 🧠 Simple logic for music recommendation  
+- 💾 Easy setup and lightweight Flask app  
+
+---
+📂 Project Structure
+⚙️ Prerequisites
+💻 Steps to Run
+👩‍💻 Author
+📸 Screenshots
 
 ---
 
@@ -62,31 +79,26 @@ python app.py
 6️⃣ Open the app in your browser
 👉 http://127.0.0.1:5000
 
-🧠 Features
 
-Simple and interactive UI
+---
 
-Song recommendation feature
+## 👩‍💻 Author
+**Shraddha Khare**  
+Developer & Creator of this project ❤️  
 
-Plays songs directly from static folder
+---
 
-Built with Flask and HTML/CSS
+## 📸 Project Screenshots
 
-👩‍💻 Author
+<img width="940" height="421" alt="Home Page" src="https://github.com/user-attachments/assets/a0f4f902-5edb-459f-8eec-c2c42a9c82b5" />
 
-Shraddha Khare
-Developer & Creator of this project ❤️
+<img width="940" height="529" alt="Recommendation Page" src="https://github.com/user-attachments/assets/d74940bf-a35b-4c18-a966-8e91dc27b849" />
 
+<img width="1920" height="1080" alt="Song List" src="https://github.com/user-attachments/assets/86710272-95c1-470c-85cf-4096290bb175" />
 
-## 📸 Project Screenshot
-<img width="940" height="421" alt="Image" src="https://github.com/user-attachments/assets/a0f4f902-5edb-459f-8eec-c2c42a9c82b5" />
+<img width="940" height="529" alt="Song Playing UI" src="https://github.com/user-attachments/assets/06a6919d-3a29-4f54-a3f5-43411dee1eae" />
 
-
-<img width="940" height="529" alt="Image" src="https://github.com/user-attachments/assets/d74940bf-a35b-4c18-a966-8e91dc27b849" />
-
-
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/86710272-95c1-470c-85cf-4096290bb175" />
+---
 
 
-<img width="940" height="529" alt="Image" src="https://github.com/user-attachments/assets/06a6919d-3a29-4f54-a3f5-43411dee1eae" />
 
